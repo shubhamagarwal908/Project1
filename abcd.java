@@ -1,3 +1,4 @@
+/*This is a basic java code which demonstrate use of Static block */
 class A{
 //    A(){
 //        System.out.println("hello");
